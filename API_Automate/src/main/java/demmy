@@ -1,0 +1,7 @@
+
+
+"{\"product_code\": \"RD\", \"company_code\": \"SFL\", \"component\": \"PaymentGateway\", \"action\": \"errorMaster\", \"api_name\": \"\", \"data\": {\"reason\": \"%s\", \"payment_gateway\": \"rzpay\", \"payment_mode\": \"%s\"}}"
+
+
+"{\"product_code\": \"FD\", \"company_code\": \"SFL\", \"component\": \"PaymentGateway\", \"action\": \"paymentStatusUpdate\", \"data\": {\"razorpay_order_id\": \"order_MblnZIgBYR64wg\", \"paymode\": \"%s\", \"razorpay_error\": {\"code\": \"BAD_REQUEST_ERROR\", \"description\": \"Your payment has been cancelled. Try again or complete the payment later.\", \"source\": \"customer\", \"step\": \"payment_authentication\", \"reason\": \"%s\", \"metadata\": {\"order_id\": \"order_MblnZIgBYR64wg\",\"payment_id\": \"\"}},\"razorpay_status\": \"error\",\"status_code\": 400}}"
+
